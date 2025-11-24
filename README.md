@@ -49,7 +49,11 @@ git status
 git add <archivo-resuelto>
 git commit -m "Merge con resolución de conflictos"
 
-# 🟢Titulo : Nuestro primero Repositorio
+# 🟢CLase 10 : Nuestro primero Repositorio
 
 git reset .Ds_Store -> con esto exluimos de la lista lo que queremos grabar en el repositorio
+git status
+git commit -m "mensaje"
+
+
 ```
